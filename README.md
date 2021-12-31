@@ -33,7 +33,7 @@ Diseño responsive del equipo de trabajo de una agencia.
 
 ---
 
-Este diseño fue construida en base al reto My team page del sitio [DevChallenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U).
+Este diseño fue construido en base al reto My team page del sitio [DevChallenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U).
 
 ## Construido con
 
